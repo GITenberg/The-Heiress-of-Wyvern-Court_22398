@@ -1,0 +1,25 @@
+_repo: The-Heiress-of-Wyvern-Court_22398
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22398-h/images/cover-small.jpg
+creator:
+  author:
+    agent_name: Searchfield, Emilie
+    gutenberg_agent_id: '25309'
+    url: http://www.gutenberg.org/2009/agents/25309
+description: ''
+gutenberg_issued: '2007-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Guardian and ward -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+title: The Heiress of Wyvern Court
+url: http://www.gutenberg.org/ebooks/22398
